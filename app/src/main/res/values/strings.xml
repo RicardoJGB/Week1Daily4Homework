@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Week1Daily4 At least I tried</string>
+    <string name="display_to_phone">I crash the app</string>
+    <string name="Full_Name">Full Name</string>
+    <string name="Birth_Date">Birth Date</string>
+    <string name="Street_Address">Street Address</string>
+    <string name="City_State_Zip">City State Zip</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">LastName</string>
+    <string name="MonthOfBirth">MonthOfBirth</string>
+    <string name="DayOfBirth">DayOfBirth</string>
+    <string name="YearOfBirth">YearOfBirth</string>
+    <string name="StreetNumber">StreetNumber</string>
+    <string name="StreetName">StreetName</string>
+    <string name="City">City</string>
+    <string name="State">State</string>
+    <string name="ZipCode">ZipCode</string>
+    <string name="back">back</string>
+    <string name="Retrieve">I crash the app too and I dont know why</string>
+</resources>

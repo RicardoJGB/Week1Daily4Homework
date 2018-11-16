@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/etFirstName"
+        android:inputType="text"
+        android:hint="@string/FirstName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/etLastName"
+        android:inputType="text"
+        android:hint="@string/LastName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/etMonthOfBirth"
+        android:inputType="text"
+        android:hint="@string/MonthOfBirth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/etDayOfBirth"
+        android:inputType="text"
+        android:hint="@string/DayOfBirth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/etYearOfBirth"
+        android:inputType="text"
+        android:hint="@string/YearOfBirth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/etStreetNumber"
+        android:inputType="text"
+        android:hint="@string/StreetNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/etStreetName"
+        android:inputType="text"
+        android:hint="@string/StreetName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/etCity"
+        android:inputType="text"
+        android:hint="@string/City"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/etState"
+        android:inputType="text"
+        android:hint="@string/State"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/etZipCode"
+        android:inputType="text"
+        android:hint="@string/ZipCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:onClick="onButtonClick"
+        android:text="@string/back" />
+
+</android.support.constraint.ConstraintLayout>
